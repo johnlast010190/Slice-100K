@@ -1,0 +1,15 @@
+# Slice-100K Dataset Download URLs
+#
+# HOW TO GET THE URLS:
+# 1. Go to https://figshare.com/s/9d084ff84f3822d2bf17
+# 2. Right-click on the FIRST file's "Download" button → Copy link address
+# 3. Right-click on the LAST file's "Download" button → Copy link address
+# 4. Replace the URLs below with the real ones
+#
+# Example format:
+# https://figshare.com/ndownloader/files/50650986
+# https://figshare.com/ndownloader/files/50650987
+# ... etc
+#
+# DELETE THESE COMMENTS and paste your URLs below (one per line):
+
